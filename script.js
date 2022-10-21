@@ -21,4 +21,4 @@ checkbox.addEventListener('change', () => {
   }
 });
 
-//modificação antes de fazer commmit
+// modificação antes de fazer commmit
